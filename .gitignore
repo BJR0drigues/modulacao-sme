@@ -1,0 +1,33 @@
+# dados reais — nunca commitar
+data/
+output/
+*.xls
+*.xlsx
+!requirements.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ambientes virtuais
+venv/
+.venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# sistema
+.DS_Store
+Thumbs.db
